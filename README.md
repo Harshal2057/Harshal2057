@@ -38,7 +38,8 @@ I love building **full-stack web applications** and constantly enhancing my skil
 
 Here are a few projects I’ve worked on:
 
-- **BuzzGig** – A platform connecting freelancers and clients. Freelancers can discover and apply for projects, while clients can easily post jobs and find the right talent to get work done efficiently (Ongoing..).  
+- **BuzzGig** – A platform connecting freelancers and clients. Freelancers can discover and apply for projects, while clients can easily post jobs and find the right talent to get work done efficiently (Ongoing..)  => - [Live Demo](https://verdant-pie-e7174e.netlify.app/) | [GitHub Repo](https://github.com/Harshal2057/BuzzGig)
+
  ---
 
 ## 📫 Contact Me
